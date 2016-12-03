@@ -1,0 +1,12 @@
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.exe.config
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.exe
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.pdb
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.csprojResolveAssemblyReference.cache
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.exe
+c:\users\nash\documents\visual studio 2015\Projects\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.pdb
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.exe.config
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.exe
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.pdb
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.exe
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\bin\Debug\SolarSystemPlanets.pdb
+C:\Programming\C# Programs\Personal\SolarSystemPlanets\SolarSystemPlanets\obj\Debug\SolarSystemPlanets.csprojResolveAssemblyReference.cache
